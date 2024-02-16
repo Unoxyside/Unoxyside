@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Unoxyside
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Halo semua!
+Perkenalkan nama saya **Akhmad Bahasyim**.
+Saya seorang mahasiswa dan tertarik pada dunia pemrograman.<br/>
+Saat ini mengikuti program <a href="https://g.co/bangkit">Bangkit</a> 2024 by Google, GoTo, dan Traveloka - Android Development Learning Path.<br>
 
-<!---
-Unoxyside/Unoxyside is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+<a href="https://github.com/unoxyside">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unoxyside&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unoxyside&layout=compact&theme=algolia"/>
+</a>
+</p>
